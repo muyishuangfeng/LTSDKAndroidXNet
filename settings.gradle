@@ -1,0 +1,2 @@
+include ':LTSDKAndroidXNet'
+rootProject.name='LTGameSDKAndroidXNet'
